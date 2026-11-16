@@ -1,5 +1,7 @@
 # EAD delivery demo
 
+
+This repository is a small static website used to practise Git, GitHub pull requests and CI that tests, validates and packages the site as a downloadable artifact.
 Class 3: Git, GitHub and artifact delivery. Class 4: Docker image delivery.
 
 ## Local use
